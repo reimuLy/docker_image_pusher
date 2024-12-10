@@ -1,3 +1,2 @@
 #支持私库
-nyanmisaka/jellyfin:latest
-gotify/server:latest
+charlocharlie/epicgames-freegames:latest
