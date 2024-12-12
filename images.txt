@@ -1,2 +1,2 @@
 #支持私库
-charlocharlie/epicgames-freegames:latest
+ghcr.io/vogler/free-games-claimer:latest
